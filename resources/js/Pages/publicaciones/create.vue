@@ -3,7 +3,7 @@
         class="z-10 fixed top-0 h-full w-full text-center"
         style="background-color:rgba(50,50,50,0.5)"
     >
-        <div class="mx-auto w-1/3 h-1/3 text-center shadow-lg bg-white mt-8 rounded-lg p-8">
+        <div class="mx-auto w-1/3 text-center shadow-lg bg-white mt-8 rounded-lg p-8 sm:w-2/3">
             <p>
                 <label for="" class="text-sm italic ml-4">
                     <input 
